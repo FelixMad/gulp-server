@@ -1,0 +1,24 @@
+{
+  "name": "gulp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-live-server": "^0.0.29"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelixMad/gulp-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelixMad/gulp-server/issues"
+  },
+  "homepage": "https://github.com/FelixMad/gulp-server#readme"
+}
